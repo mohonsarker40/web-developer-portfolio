@@ -96,6 +96,10 @@ main {
   margin: 0 auto;
 }
 
+main section {
+  margin-top: 130px;
+}
+
 /* about section styles */
 .about {
   padding: 130px;
@@ -137,3 +141,12 @@ main {
 }
 
 /* resume section */
+.resume-column-title {
+  color: rgb(71, 71, 71);
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.resume-container{
+    display: flex;
+}
