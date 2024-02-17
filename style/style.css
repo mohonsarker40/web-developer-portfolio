@@ -147,6 +147,16 @@ main section {
   font-weight: 700;
 }
 
-.resume-container{
-    display: flex;
+.resume-container {
+  display: flex;
+  gap: 50px;
+}
+.resume-item-institute,
+.resume-item-descripton {
+  color: rgb(117, 117, 117);
+}
+.resume-item-title {
+  color: rgb(71, 71, 71);
+  font-size: 25px;
+  font-weight: 700;
 }
